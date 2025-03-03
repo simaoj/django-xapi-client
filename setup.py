@@ -9,6 +9,7 @@ setup(
         'Django>=3.0',
         'tincan>=0.0.5',
         'requests',
+        'pyexcel'
     ],
     license='MIT',
     description='A Django client for xAPI',
