@@ -1,5 +1,5 @@
 from django.core.validators import EmailValidator
-from django.utils.translation import ugettext_lazy as _
+from django.utils.translation import gettext_lazy as _
 from django import forms
 from datetimewidget.widgets import DateTimeWidget
 from django.conf import settings
